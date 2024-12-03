@@ -35,30 +35,30 @@ I'm a **Full Stack Developer** skilled in building modern, efficient, and user-c
 
 - 
 ### [Travel List App](#)
-![Travel List App Screenshot](https://via.placeholder.com/600x300.png?text=Travel+List+App)
+![Travel List App Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/travel_list_app.png)
 
 A React-based app for organizing and managing travel plans. Users can add destinations, set budgets, and track progress.
 
 ---
 
 ### [Weather App](#)
-![Weather App Screenshot](https://via.placeholder.com/600x300.png?text=Weather+App)
+![Weather App Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/weather_app.png)
 
 A dynamic weather application built with React, showcasing real-time weather data fetched from an API.
 
 ---
 
-### Additional Projects 
+### Projects from Jonas's React Course
 1. **Expense Tracker App**  
-   ![Expense Tracker Screenshot](https://via.placeholder.com/600x300.png?text=Expense+Tracker+App)  
+   ![Expense Tracker Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/expense_tracker_app.png)  
    Manage and analyze your expenses effortlessly with this React-based app.
 
 2. **Food Order App**  
-   ![Food Order App Screenshot](https://via.placeholder.com/600x300.png?text=Food+Order+App)  
+   ![Food Order App Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/food_order_app.png)  
    A sleek food ordering platform that provides a seamless user experience.
 
 3. **Multi-Step Form App**  
-   ![Multi-Step Form Screenshot](https://via.placeholder.com/600x300.png?text=Multi-Step+Form+App)  
+   ![Multi-Step Form Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/multi_step_form_app.png)  
    A step-by-step form built with React to simplify user data collection.
 
 ## 📫 Let's Connect
