@@ -56,8 +56,7 @@ A dynamic weather application built with React, showcasing real-time weather dat
    A sleek food ordering platform that provides a seamless user experience.
 
 3. **Multi-Step Form App**  
-   [![Multi-Step Form Icon](https://img.shields.io/badge/Multi-Step%20Form-Form-blue?style=flat-square&logo=react)](https://www.iconfinder.com/icons/3952554/form_icon)  
-   A step-by-step form built with React to simplify user data collection.
+   📝 **Multi-Step Form App**: A step-by-step form built with React to simplify user data collection.
 
 ## 📫 Let's Connect
 - 🌍 [Portfolio](#) https://mubarek-jemal.vercel.app/
