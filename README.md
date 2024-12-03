@@ -33,32 +33,30 @@ I'm a **Full Stack Developer** skilled in building modern, efficient, and user-c
 - 🚀 **Landing Page for Cassandra:** A sleek and modern landing page designed for a client.
 - 🌟 **AMU Muslim Students Website:** A collaborative project for the university community.
 
-- 
-### [Travel List App](#)
-![Travel List App Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/travel_list_app.png)
 
+### [Travel List App](#)
+[![Travel List App Icon](https://img.shields.io/badge/Project%20Icon-Travel%20List%20App-blue?style=flat-square&logo=react)](https://www.iconfinder.com/icons/3952551/airplane_trip_travel_icon)
 A React-based app for organizing and managing travel plans. Users can add destinations, set budgets, and track progress.
 
 ---
 
 ### [Weather App](#)
-![Weather App Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/weather_app.png)
-
+[![Weather App Icon](https://img.shields.io/badge/Weather%20App-Weather-blue?style=flat-square&logo=react)](https://www.iconfinder.com/icons/3038889/weather_icon)
 A dynamic weather application built with React, showcasing real-time weather data fetched from an API.
 
 ---
 
 ### Projects from Jonas's React Course
 1. **Expense Tracker App**  
-   ![Expense Tracker Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/expense_tracker_app.png)  
+   [![Expense Tracker Icon](https://img.shields.io/badge/Expense%20Tracker-Expense-blue?style=flat-square&logo=react)](https://www.iconfinder.com/icons/3952552/expense_icon)  
    Manage and analyze your expenses effortlessly with this React-based app.
 
 2. **Food Order App**  
-   ![Food Order App Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/food_order_app.png)  
+   [![Food Order Icon](https://img.shields.io/badge/Food%20Order-Food-blue?style=flat-square&logo=react)](https://www.iconfinder.com/icons/3952543/food_icon)  
    A sleek food ordering platform that provides a seamless user experience.
 
 3. **Multi-Step Form App**  
-   ![Multi-Step Form Screenshot](https://raw.githubusercontent.com/your_username/your_repository/main/images/multi_step_form_app.png)  
+   [![Multi-Step Form Icon](https://img.shields.io/badge/Multi-Step%20Form-Form-blue?style=flat-square&logo=react)](https://www.iconfinder.com/icons/3952554/form_icon)  
    A step-by-step form built with React to simplify user data collection.
 
 ## 📫 Let's Connect
