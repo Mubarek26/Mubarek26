@@ -46,14 +46,12 @@ A dynamic weather application built with React, showcasing real-time weather dat
 
 ---
 
-### Projects from Jonas's React Course
+### Additional Projects 
 1. **Expense Tracker App**  
-   [![Expense Tracker Icon](https://img.shields.io/badge/Expense%20Tracker-Expense-blue?style=flat-square&logo=react)](https://www.iconfinder.com/icons/3952552/expense_icon)  
-   Manage and analyze your expenses effortlessly with this React-based app.
+   💵 **Expense Tracker App**: Manage and analyze your expenses effortlessly with this React-based app.
 
 2. **Food Order App**  
-   [![Food Order Icon](https://img.shields.io/badge/Food%20Order-Food-blue?style=flat-square&logo=react)](https://www.iconfinder.com/icons/3952543/food_icon)  
-   A sleek food ordering platform that provides a seamless user experience.
+   🍔 **Food Order App**: A sleek food ordering platform that provides a seamless user experience.
 
 3. **Multi-Step Form App**  
    📝 **Multi-Step Form App**: A step-by-step form built with React to simplify user data collection.
