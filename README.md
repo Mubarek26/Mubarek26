@@ -33,6 +33,34 @@ I'm a **Full Stack Developer** skilled in building modern, efficient, and user-c
 - 🚀 **Landing Page for Cassandra:** A sleek and modern landing page designed for a client.
 - 🌟 **AMU Muslim Students Website:** A collaborative project for the university community.
 
+- 
+### [Travel List App](#)
+![Travel List App Screenshot](https://via.placeholder.com/600x300.png?text=Travel+List+App)
+
+A React-based app for organizing and managing travel plans. Users can add destinations, set budgets, and track progress.
+
+---
+
+### [Weather App](#)
+![Weather App Screenshot](https://via.placeholder.com/600x300.png?text=Weather+App)
+
+A dynamic weather application built with React, showcasing real-time weather data fetched from an API.
+
+---
+
+### Additional Projects 
+1. **Expense Tracker App**  
+   ![Expense Tracker Screenshot](https://via.placeholder.com/600x300.png?text=Expense+Tracker+App)  
+   Manage and analyze your expenses effortlessly with this React-based app.
+
+2. **Food Order App**  
+   ![Food Order App Screenshot](https://via.placeholder.com/600x300.png?text=Food+Order+App)  
+   A sleek food ordering platform that provides a seamless user experience.
+
+3. **Multi-Step Form App**  
+   ![Multi-Step Form Screenshot](https://via.placeholder.com/600x300.png?text=Multi-Step+Form+App)  
+   A step-by-step form built with React to simplify user data collection.
+
 ## 📫 Let's Connect
 - 🌍 [Portfolio](#) https://mubarek-jemal.vercel.app/
 - Email: mubarekjemal630@gmail.com 
